@@ -1,2 +1,4 @@
 # hello-world
-just an test project
+
+Hello, guys:
+    Mu Xinxin here, I like front-end thing and data mining things.
